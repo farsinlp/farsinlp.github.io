@@ -3,7 +3,7 @@
 
 ### Farsi (Persian)
 
-- [Automatic speech recognition](english/automatic_speech_recognition.md)
+- [Automatic speech recognition](farsi/automatic_speech_recognition.md)
 - [CCG](english/ccg.md)
 
 
