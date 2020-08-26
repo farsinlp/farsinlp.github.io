@@ -4,11 +4,11 @@
 ### Farsi (Persian)
 
 - [Automatic speech recognition](farsi/automatic_speech_recognition.md)
-- [CCG](english/ccg.md)
+- [CCG](farsi/ccg.md)
 
 
 
 This document aims to track the progress in Natural Language Processing (NLP) and give an overview
 of the state-of-the-art (SOTA) across the most common NLP tasks and their corresponding datasets in Farsi.
 
-If you want to find this document again in the future, just go to [`farsinlp.github.io/Farsi_NLP`](https://farsinlp.github.io/Farsi_NLP/) in your browser.
+If you want to find this document again in the future, just go to [`farsinlp.github.io`](https://farsinlp.github.io/) in your browser.
