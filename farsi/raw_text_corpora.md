@@ -1,0 +1,9 @@
+# Raw Text Corpora
+
+| Title | Description |
+| ----- | ----------- |
+| Persian Wikipedia Corpus<br>[[website]](https://github.com/Text-Mining/Persian-Wikipedia-Corpus) [[download]](https://github.com/Text-Mining/Persian-Wikipedia-Corpus/tree/master/Json%20Format%20of%20Persian%20Wikipedia%20Pages) | A complete copy of Persian Wikimedia pages, in the form of plain text (without wikitext markup) and metadata embedded in JSON. The current version is as fawiki-20181001-dump that it contains 1,160,676 useful articles. |
+| MirasText<br>[[website]](https://github.com/miras-tech/MirasText) [[paper]](https://www.aclweb.org/anthology/L18-1188/) [[download]](https://drive.google.com/file/d/1QNHPv4B22d-Dj7oYoOKQNx2zUfFzsAUL/view?usp=sharing) | MirasText is the result of crawling more than 250 persain news websites. MirasText has more than 2.8 million articles and over 1.4 billion content words. |
+| Farsi News Datasets<br>[[website]](https://github.com/sci2lab/Farsi-datasets/tree/master/farsi_news) [[download_hamshahri]](https://raw.githubusercontent.com/sci2lab/Farsi-datasets/master/farsi_news/hamshahri.json) [[download_radiofarda]](https://raw.githubusercontent.com/sci2lab/Farsi-datasets/master/farsi_news/radiofarda.json) | These datasets have been extracted from the RSS feed of two Farsi news agency websites: Hamshahri and RadioFarda. |
+| Persian poems corpus<br>[[website]](https://github.com/amnghd/Persian_poems_corpus) [[download]](https://github.com/amnghd/Persian_poems_corpus/archive/master.zip) | This repository contains Persian poem corpus. There are 48 documents in this folder, each corresponding to one poet. There are three folders and all contain documents for all of the 48 poets. |
+| VOA Corpus<br>[[website]](https://jon.dehdari.org/corpora/#persian) [[download]](https://drive.google.com/open?id=1mBeSSrEnajB2qxYs67tQbEDWmpRMZ0U0) | A Farsi corpus with 7.9 million words, extracted from VOA, during years 2003-2008. |
