@@ -6,7 +6,7 @@
 - [Dependency Parsing](farsi/dependency_parsing.md)
 - [Irony Detection](farsi/irony_detection.md)
 - [Lexical Database](farsi/lexical_database.md)
-- [Named Entity Recognition](farsi/named_entity_recognition.md )
+- [Named Entity Recognition](farsi/named_entity_recognition.md)
 - [NLP Tools](farsi/nlp_tools.md)
 - [Parallel Corpora](farsi/parallel_corpora.md)
 - [Part-of-speech Tagging](farsi/part-of-speech_tagging.md)
