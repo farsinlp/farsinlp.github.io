@@ -14,6 +14,7 @@
 - [Pre-trained LM](farsi/pre-trained_lm.md)
 - [Raw Text Corpora](farsi/raw_text_corpora.md)
 - [Sentiment Analysis](farsi/sentiment_analysis.md)
+- [Spell Checking](farsi/spell_checking.md)
 - [Word Similarity](farsi/word_similarity.md)
 
 This website aims at collecting the list of existing datasets for research and development in Natural Language Processing (NLP) in Farsi language. 
