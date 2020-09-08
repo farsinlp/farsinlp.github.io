@@ -16,16 +16,12 @@
 - [Sentiment Analysis](farsi/sentiment_analysis.md)
 - [Word Similarity](farsi/word_similarity.md)
 
-This document aims to track the progress in Natural Language Processing (NLP) and give an overview
-of the state-of-the-art (SOTA) across the most common NLP tasks and their corresponding datasets in Farsi.
-
-If you want to find this document again in the future, just go to [`farsinlp.github.io`](https://farsinlp.github.io/) in your browser.
+This website aims at collecting the list of existing datasets for research and development in Natural Language Processing (NLP) in Farsi language. 
+<!--If you would like to find this document again in the future, just go to [`farsinlp.github.io`](https://farsinlp.github.io/) in your browser.-->
 
 ## Contribute
 ###  Adding a new dataset or task
-If you would like to add a new dataset, you can just click on the small edit button in the top-right corner of the file for the respective task. \
-Click on the edit button to add a file. This allows you to edit the file in Markdown. Simply add a row to the corresponding table in the same format. After you've made your change, make sure that the table still looks ok by clicking on the "Preview changes" tab at the top of the page. If everything looks good, go to the bottom of the page, where you see a form. \
-Add a name for your proposed change, an optional description, indicate that you would like to "Create a new branch for this commit and start a pull request", and click on "Propose file change".
+If you would like to add a new dataset (or edit an existing one), you can just click on the small edit button in the top-right corner of the corresponding *.md* file for the task (in the [Github repository](https://github.com/farsinlp/farsinlp.github.io)). This allows you to edit the file in Markdown. Simply add a row to the corresponding table in the same format. After you've made your change, make sure that the table still looks ok by clicking on the "Preview changes" tab at the top of the page. If everything looks good, go to the bottom of the page, where you see a form. Add a name for your proposed change, an optional description, indicate that you would like to "Create a new branch for this commit and start a pull request", and click on "Propose file change".
 
 
 ## Contributors
