@@ -25,8 +25,7 @@ This website aims at collecting the list of existing datasets for research and d
 ###  Adding a new dataset or task
 If you would like to add a new dataset (or edit an existing one), you can just click on the small edit button in the top-right corner of the corresponding *.md* file for the task (in the [Github repository](https://github.com/farsinlp/farsinlp.github.io)). This allows you to edit the file in Markdown. Simply add a row to the corresponding table in the same format. After you've made your change, make sure that the table still looks ok by clicking on the "Preview changes" tab at the top of the page. If everything looks good, go to the bottom of the page, where you see a form. Add a name for your proposed change, an optional description, indicate that you would like to "Create a new branch for this commit and start a pull request", and click on "Propose file change".
 
-You can also use this Google Form to contribute:
-https://forms.gle/iNpzTsTuAFVu1FHj7
+You can also use this Google Form to contribute: [https://forms.gle/iNpzTsTuAFVu1FHj7](https://forms.gle/iNpzTsTuAFVu1FHj7)
 
 ## Contributors
 [Mohammad Taher Pilehvar [Director]](https://pilehvar.github.io/) \
