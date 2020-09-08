@@ -10,6 +10,7 @@
 - [NLP Tools](farsi/nlp_tools.md)
 - [Parallel Corpora](farsi/parallel_corpora.md)
 - [Part-of-speech Tagging](farsi/part-of-speech_tagging.md)
+- [Persian poems and Classic texts](farsi/persian_poems_classic_texts.md)
 - [Pre-trained Embeddings](farsi/pre-trained_embeddings.md)
 - [Pre-trained LM](farsi/pre-trained_lm.md)
 - [Raw Text Corpora](farsi/raw_text_corpora.md)
