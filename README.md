@@ -14,6 +14,7 @@
 - [Raw Text Corpora](farsi/raw_text_corpora.md)
 - [Sentiment Analysis](farsi/sentiment_analysis.md)
 - [Spell Checking](farsi/spell_checking.md)
+- [Text Classification](farsi/text_classification.md)
 - [Word Similarity](farsi/word_similarity.md)
 
 - [NLP Tools](farsi/nlp_tools.md)
