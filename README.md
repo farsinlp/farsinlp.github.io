@@ -17,10 +17,9 @@
 - [Spell Checking](farsi/spell_checking.md)
 - [Text Classification](farsi/text_classification.md)
 - [Word Similarity](farsi/word_similarity.md)
-
 - [NLP Tools](farsi/nlp_tools.md)
 
-This website aims at collecting the list of existing datasets for research and development in Natural Language Processing (NLP) in Farsi language. 
+This website aims at listing datasets and tools for research and development in Farsi Natural Language Processing (NLP). 
 <!--If you would like to find this document again in the future, just go to [`farsinlp.github.io`](https://farsinlp.github.io/) in your browser.-->
 
 ## Contribute
