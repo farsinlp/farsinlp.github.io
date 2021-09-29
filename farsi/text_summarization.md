@@ -6,3 +6,4 @@ The former constructs a summary by concatenating extracts taken from the origina
 | Title | Description |
 | ----- | ----------- |
 | Persian abstractive text summarization<br>[[website]](https://github.com/hooshvare/pn-summary) | A dataset for Farsi abstractive/extractive summarization tasks (like cnn_dailymail for English) with 93,207 records.  |
+| Tebyan Dataset<br>[[website]](https://github.com/alirezasalemi7/ARMAN) | Tebyan Dataset accumulates 92,289 documentsummary pairs collected from the Tebyan website. These articles consist of various subjects and are not limited to news articles. |
