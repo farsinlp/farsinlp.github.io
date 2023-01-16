@@ -37,5 +37,5 @@ A project initiated by [Dadmatech](http://dadmatech.ir/#/), with the help of:
 [Alireza Moradi](https://github.com/Alireza1044) \
 [Zhivar Sourati](https://github.com/zhpinkman) \
 [Sepehr Babapour]() \
-[Parisa Yalsavar](https://github.com/parisays)
+[Parisa Yalsavar](https://github.com/parisays) \
 [Ehsan Aghazadeh](https://github.com/EhsanAghazadeh)
