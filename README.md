@@ -12,6 +12,7 @@
 - [Part-of-speech Tagging](farsi/part-of-speech_tagging.md)
 - [Pre-trained Embeddings](farsi/pre-trained_embeddings.md)
 - [Pre-trained LM](farsi/pre-trained_lm.md)
+- [Question Answering](farsi/question_answering.md)
 - [Raw Text Corpora](farsi/raw_text_corpora.md)
 - [Sentiment Analysis](farsi/sentiment_analysis.md)
 - [Spell Checking](farsi/spell_checking.md)
